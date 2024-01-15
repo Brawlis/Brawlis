@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brawlis
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Java
-- ⚡ Fun fact: I like my pets ;)
+- ⚡ Fun fact: I love my pets ;)
 
 <!---
 Brawlis/Brawlis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
