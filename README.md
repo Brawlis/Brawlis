@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fagner
+- 👋 Hi, I’m @fagnerfernandes1003
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I love my pets ;)
