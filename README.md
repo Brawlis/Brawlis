@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Brawlis
-- 👀 I’m interested in learning
+- 👋 Hi, I’m @Fagner
+- 👀 I’m interested in JavaScript and Pyton
 - 🌱 I’m currently learning Java
 - ⚡ Fun fact: I love my pets ;)
 
